@@ -284,22 +284,5 @@ The dataset used is the Telco Customer Churn dataset, which contains information
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📝 License
-
-This project is open source and available under the MIT License.
-
-## 👤 Author
-
-**Abeb86**
-- GitHub: [@Abeb86](https://github.com/Abeb86)
-
-## 🙏 Acknowledgments
-
-- Telco Customer Churn dataset
-- XGBoost developers
-- Streamlit team
-- Scikit-learn community
-
----
 
 **Note**: Make sure to have the trained model (`models/churn_pipeline.pkl`) before running the web application. If the model doesn't exist, run the training script first.
