@@ -121,13 +121,7 @@ This will display:
 The confusion matrix is a key evaluation metric that shows how well the model performs on the test data. It visualizes the model's predictions compared to the actual outcomes.
 
 **Confusion Matrix Structure:**
-
-```
-                Predicted
-              No Churn  Churn
-Actual No Churn   TN     FP
-       Churn       FN     TP
-```
+<img width="854" height="650" alt="image" src="https://github.com/user-attachments/assets/54cb0bf6-086e-4f4d-896a-def4120ebdc3" />
 
 **Metrics Explained:**
 
