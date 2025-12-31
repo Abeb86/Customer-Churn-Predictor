@@ -2,7 +2,7 @@
 
 A machine learning project that predicts customer churn for a telecommunications company using XGBoost classifier. The project includes data preprocessing, model training, evaluation, and an interactive Streamlit web application for real-time predictions.
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Features](#features)
 - [Project Structure](#project-structure)
