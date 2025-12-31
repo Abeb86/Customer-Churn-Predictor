@@ -48,7 +48,7 @@ Customer-Churn-Predictor/
 └── README.md                                    # Project documentation
 ```
 
-## 🚀 Installation
+## Installation
 
 ### Prerequisites
 
@@ -172,7 +172,7 @@ The app will open in your browser (typically at `http://localhost:8501`).
    - **High Churn Risk**: Short tenure, month-to-month contract, electronic check payment, high charges
    - **Low Churn Risk**: Long tenure, two-year contract, automatic payment, moderate charges
 
-## 🤖 Model Details
+##  Model Details
 
 ### Algorithm
 - **XGBoost Classifier**
@@ -254,7 +254,7 @@ The complete pipeline includes:
 
 All steps are automated and saved in the pipeline for consistent predictions.
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - **Python 3.8+**
 - **Pandas**: Data manipulation and analysis
@@ -266,7 +266,7 @@ All steps are automated and saved in the pipeline for consistent predictions.
 - **Matplotlib/Seaborn**: Data visualization
 - **Jupyter**: Interactive notebooks for exploration
 
-## 📊 Data
+##  Data
 
 The dataset used is the Telco Customer Churn dataset, which contains information about:
 - Customer demographics
