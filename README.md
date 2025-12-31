@@ -12,7 +12,7 @@ A machine learning project that predicts customer churn for a telecommunications
 - [Key Features](#key-features)
 - [Technologies Used](#technologies-used)
 
-## ✨ Features
+##  Features
 
 - **Data Preprocessing**: Automated data cleaning and feature engineering pipeline
 - **Machine Learning Model**: XGBoost classifier for churn prediction
@@ -20,7 +20,7 @@ A machine learning project that predicts customer churn for a telecommunications
 - **Model Evaluation**: Comprehensive metrics and visualization tools
 - **Production-Ready Pipeline**: End-to-end ML pipeline with preprocessing and prediction
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Customer-Churn-Predictor/
@@ -79,7 +79,7 @@ Customer-Churn-Predictor/
    pip install -r requirements.txt
    ```
 
-## 📖 Usage
+##  Usage
 
 ### 1. Data Preparation
 
@@ -274,7 +274,7 @@ The dataset used is the Telco Customer Churn dataset, which contains information
 - Account information
 - Churn status
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
