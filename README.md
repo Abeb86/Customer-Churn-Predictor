@@ -230,7 +230,7 @@ The model uses 19 features:
 3. **Scaling**: StandardScaler for numeric features
 4. **Encoding**: OneHotEncoder for categorical features (drop='first')
 
-## 🔑 Key Features
+##  Key Features
 
 ### Main Churn Factors
 
@@ -274,9 +274,3 @@ The dataset used is the Telco Customer Churn dataset, which contains information
 - Account information
 - Churn status
 
-##  Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-
-**Note**: Make sure to have the trained model (`models/churn_pipeline.pkl`) before running the web application. If the model doesn't exist, run the training script first.
